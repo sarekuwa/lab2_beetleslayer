@@ -12,7 +12,6 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.content.Intent;
-//May be used in future
 import android.graphics.Bitmap;
 import android.widget.TextView;
 import java.util.ArrayList;
@@ -34,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
     TextView playername;
     TextView gamescore;
     TextView difficultytext;
-    RelativeLayout rl;
 
     public int quantity;
     public Bitmap mBitmap;
